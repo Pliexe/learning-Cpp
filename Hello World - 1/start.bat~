@@ -1,0 +1,4 @@
+gcc
+.\main.cpp
+-lstdc++
+file
